@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @brnd777
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything that seems interesting
-- 📫 To contact me send an email for brenda.isabel500@gmail.com
-- 😄 Pronouns: she/her
+# Olá, eu sou a Brenda! 👋
 
-<!---
-brnd777/brnd777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Engenheira de Machine Learning | Cientista de Dados
+
+Sou graduanda em **Matemática pela UFMG** gosto de mexer com dados complexos e extrair deles soluções de negócio. Atualmente, atuo com foco em modelagem preditiva e engenharia de dados no setor bancário.
+
+Tenho forte base em estatística e sou certificada **Google Cloud Professional ML Engineer**, com experiência prática em deploy de modelos e construção de pipelines escaláveis.
+
+---
+
+### 🛠 Tech Stack & Ferramentas
+
+* [cite_start]**Linguagens:** Python (Pandas, Scikit-Learn, XGBoost), SQL Avançado.
+* [cite_start]**Cloud (GCP):** Vertex AI, BigQuery ML, Cloud Storage, Pipelines.
+* [cite_start]**Machine Learning:** Classificação, Regressão, MLOps, Monitoramento de Modelos (Drift).
+* [cite_start]**Infraestrutura:** Docker e noções de Kubernetes (GKE).
+
+---
+
+### Experiência
+
+**Banco Mercantil (Estágio em Dados e BI):** Desenvolvimento de modelos de propensão e turnover, automação de ETL com Python e otimização de processos.
+
+---
+
+### Certificações
+
+**Google Cloud Professional Machine Learning Engineer**
+
+---
+
+### 📫 Vamos conversar?
+
+* [LinkedIn](https://linkedin.com/in/brenda-lima-81955016a/)
+* [Email](mailto:brenda.isabel500@gmail.com)
