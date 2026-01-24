@@ -8,12 +8,12 @@ Tenho forte base em estatística e sou certificada **Google Cloud Professional M
 
 ---
 
-### 🛠 Tech Stack & Ferramentas
+### Tech Stack & Ferramentas
 
-* [cite_start]**Linguagens:** Python (Pandas, Scikit-Learn, XGBoost), SQL Avançado.
-* [cite_start]**Cloud (GCP):** Vertex AI, BigQuery ML, Cloud Storage, Pipelines.
-* [cite_start]**Machine Learning:** Classificação, Regressão, MLOps, Monitoramento de Modelos (Drift).
-* [cite_start]**Infraestrutura:** Docker e noções de Kubernetes (GKE).
+**Linguagens:** Python (Pandas, Scikit-Learn, XGBoost), SQL Avançado.
+**Cloud (GCP):** Vertex AI, BigQuery ML, Cloud Storage, Pipelines.
+**Machine Learning:** Classificação, Regressão, MLOps, Monitoramento de Modelos (Drift).
+**Infraestrutura:** Docker e noções de Kubernetes (GKE).
 
 ---
 
